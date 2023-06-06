@@ -1,0 +1,172 @@
+# depslib dependency file v1.0
+1685875800 source:/home/em3s1s/Desktop/test/labirintu/main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<stack>
+	"Labirint.h"
+	"Game.h"
+
+1685832144 /home/em3s1s/Desktop/test/labirintu/include/Labirint.h
+	<iostream>
+	<vector>
+	"Player.h"
+
+1685827690 /home/em3s1s/Desktop/test/labirintu/include/Player.h
+
+1685832621 source:/home/em3s1s/Desktop/test/labirintu/src/Labirint.cpp
+	"Labirint.h"
+	<stack>
+	<ctime>
+
+1685827766 source:/home/em3s1s/Desktop/test/labirintu/src/Player.cpp
+	"Player.h"
+
+1685911090 source:/home/em3s1s/Desktop/test/labirintu/src/Game.cpp
+	"Game.h"
+	<cstring>
+
+1685910538 /home/em3s1s/Desktop/test/labirintu/include/Game.h
+	"Labirint.h"
+	<curses.h>
+
+1685875800 source:/home/em3s1s/Desktop/Labirint_exec/labirintu/main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<stack>
+	"Labirint.h"
+	"Game.h"
+
+1685832144 /home/em3s1s/Desktop/Labirint_exec/labirintu/include/Labirint.h
+	<iostream>
+	<vector>
+	"Player.h"
+
+1685827690 /home/em3s1s/Desktop/Labirint_exec/labirintu/include/Player.h
+
+1685910538 /home/em3s1s/Desktop/Labirint_exec/labirintu/include/Game.h
+	"Labirint.h"
+	<curses.h>
+
+1685911090 source:/home/em3s1s/Desktop/Labirint_exec/labirintu/src/Game.cpp
+	"Game.h"
+	<cstring>
+
+1685832621 source:/home/em3s1s/Desktop/Labirint_exec/labirintu/src/Labirint.cpp
+	"Labirint.h"
+	<stack>
+	<ctime>
+
+1685827766 source:/home/em3s1s/Desktop/Labirint_exec/labirintu/src/Player.cpp
+	"Player.h"
+
+1685911090 source:/media/em3s1s/EMY/POO/Labirint/labirintu/src/Game.cpp
+	"Game.h"
+	<cstring>
+
+1685910538 /media/em3s1s/EMY/POO/Labirint/labirintu/include/Game.h
+	"Labirint.h"
+	<curses.h>
+
+1685832144 /media/em3s1s/EMY/POO/Labirint/labirintu/include/Labirint.h
+	<iostream>
+	<vector>
+	"Player.h"
+
+1685827690 /media/em3s1s/EMY/POO/Labirint/labirintu/include/Player.h
+
+1685832620 source:/media/em3s1s/EMY/POO/Labirint/labirintu/src/Labirint.cpp
+	"Labirint.h"
+	<stack>
+	<ctime>
+
+1685827766 source:/media/em3s1s/EMY/POO/Labirint/labirintu/src/Player.cpp
+	"Player.h"
+
+1685964308 source:/media/em3s1s/EMY/POO/Labirint/labirintu/main.cpp
+	<iostream>
+	"Labirint.h"
+	"Game.h"
+
+1685994037 source:/home/em3s1s/Desktop/Problema Labirint/Labirint/labirintu/main.cpp
+	<iostream>
+	"Labirint.h"
+	"Game.h"
+
+1685992522 /home/em3s1s/Desktop/Problema Labirint/Labirint/labirintu/include/Labirint.h
+	<iostream>
+	<vector>
+	"Player.h"
+
+1685971971 /home/em3s1s/Desktop/Problema Labirint/Labirint/labirintu/include/Player.h
+
+1685993197 /home/em3s1s/Desktop/Problema Labirint/Labirint/labirintu/include/Game.h
+	"Labirint.h"
+
+1685827766 source:/home/em3s1s/Desktop/Problema Labirint/Labirint/labirintu/src/Player.cpp
+	"Player.h"
+
+1686012433 source:/home/em3s1s/Desktop/Problema Labirint/Labirint/labirintu/src/Game.cpp
+	"Game.h"
+	<cstring>
+
+1686008247 source:/home/em3s1s/Desktop/Problema Labirint/Labirint/labirintu/src/Labirint.cpp
+	"Labirint.h"
+	<stack>
+	<ctime>
+
+1685994037 source:/home/em3s1s/Desktop/Problema Labirint/Copie_Labirint/labirintu/main.cpp
+	<iostream>
+	"Labirint.h"
+	"Game.h"
+
+1685992522 /home/em3s1s/Desktop/Problema Labirint/Copie_Labirint/labirintu/include/Labirint.h
+	<iostream>
+	<vector>
+	"Player.h"
+
+1685971971 /home/em3s1s/Desktop/Problema Labirint/Copie_Labirint/labirintu/include/Player.h
+
+1685993197 /home/em3s1s/Desktop/Problema Labirint/Copie_Labirint/labirintu/include/Game.h
+	"Labirint.h"
+
+1686012433 source:/home/em3s1s/Desktop/Problema Labirint/Copie_Labirint/labirintu/src/Game.cpp
+	"Game.h"
+	<cstring>
+
+1686008247 source:/home/em3s1s/Desktop/Problema Labirint/Copie_Labirint/labirintu/src/Labirint.cpp
+	"Labirint.h"
+	<stack>
+	<ctime>
+
+1685827766 source:/home/em3s1s/Desktop/Problema Labirint/Copie_Labirint/labirintu/src/Player.cpp
+	"Player.h"
+
+1685994037 source:/home/em3s1s/Desktop/Problema Labirint/Labirint/labirint/main.cpp
+	<iostream>
+	"Labirint.h"
+	"Game.h"
+
+1685992522 /home/em3s1s/Desktop/Problema Labirint/Labirint/labirint/include/Labirint.h
+	<iostream>
+	<vector>
+	"Player.h"
+
+1685971971 /home/em3s1s/Desktop/Problema Labirint/Labirint/labirint/include/Player.h
+
+1685993197 /home/em3s1s/Desktop/Problema Labirint/Labirint/labirint/include/Game.h
+	"Labirint.h"
+
+1686012433 source:/home/em3s1s/Desktop/Problema Labirint/Labirint/labirint/src/Game.cpp
+	"Game.h"
+	<cstring>
+
+1686008247 source:/home/em3s1s/Desktop/Problema Labirint/Labirint/labirint/src/Labirint.cpp
+	"Labirint.h"
+	<stack>
+	<ctime>
+
+1685827766 source:/home/em3s1s/Desktop/Problema Labirint/Labirint/labirint/src/Player.cpp
+	"Player.h"
+
